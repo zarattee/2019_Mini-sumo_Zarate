@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Modules)(type KiCad)(uri "$(KISYSMOD)/Modules.pretty")(options "")(descr ""))
+  (lib (name Diodes_THT)(type KiCad)(uri "$(KISYSMOD)/Diodes_THT.pretty")(options "")(descr ""))
+  (lib (name discret)(type KiCad)(uri "$(KISYSMOD)/discret.pretty")(options "")(descr ""))
+)
